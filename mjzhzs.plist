@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://111.198.154.120:9900/theme/app/mjzhzs.ipa</string>
+						<string>http://220.160.52.144:9903/theme/app/mjzhzs.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -19,7 +19,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://111.198.154.120:9900/theme/app/57.png</string>
+						<string>http://220.160.52.144:9903/theme/app/57.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -27,7 +27,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://111.198.154.120:9900/theme/app/512.png</string>
+						<string>http://220.160.52.144:9903/theme/app/512.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
